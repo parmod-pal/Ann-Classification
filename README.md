@@ -105,8 +105,3 @@ What I tested / known issues
 - The notebook currently uses train_test_split unpacking in correct order (X_train, X_test, y_train, y_test). Ensure you run cells in order.
 - requirements.txt pins tensorflow==2.15.0. If install fails on your machine, try a different TF build or a different Python version (see TensorFlow official install notes).
 
-License
-Add an appropriate license file (e.g., MIT) and contributor information.
-
-Contact / contribution
-Open an issue or PR with improvements, diagnostics, or environment notes.
